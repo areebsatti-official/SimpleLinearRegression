@@ -1,1 +1,1 @@
-# SimpleLinearRegression
+# Prediction Using Supervised Machine Learning
